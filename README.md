@@ -1,5 +1,6 @@
 # SofaSofa
 SofaSofa Competitions:
+http://sofasofa.io/competitions.php
 1. 公共自行车使用量预测 - 2018/06/15
 2. 足球运动员身价估计 - 2018/06/18
 3. 交通事故理赔审核 - 2018/06/23
